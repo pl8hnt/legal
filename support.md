@@ -41,7 +41,20 @@ Open the trip manager (the avatar icon in the top right of the main screen). Fro
 
 ### Can I share my trip with friends?
 
-Not at the moment. Maybe in the future :)
+Yes! When you create a new road trip, toggle on **"Share with friends"** in the dialog. You'll see a QR code that friends can scan from the **scan icon** in the top right of the Road Trips screen. As the trip owner, you approve each join request before the new member sees the trip on their device.
+
+Two modes are available when you create a shared trip:
+
+- **Solo mode** (default): each device tracks only its own taps. The leaderboard shows everyone's individual scores.
+- **Team mode**: all devices share one grid. Any tap from any device counts toward the shared total.
+
+Tap-by-tap updates from other devices show up as banners at the bottom of the screen. Tap the **people icon** on a shared trip card to see the leaderboard, drill into who tapped which states, and (if you're the trip owner or a co-owner) approve / remove members.
+
+Shared trips are automatically deleted from our backend 30 days after the last activity (90-day hard cap). Your personal local tap counts always remain on your device — leaving a shared trip never deletes your own data.
+
+### What does the QR code on a shared trip card do?
+
+It's the join code for that trip. Tap it to show the QR code (and a short share code, if your friend can't scan); show it to a friend so they can join. The trip owner still approves each request before the new member is admitted, so even if the QR is screenshotted and circulated, nobody can join without your say-so.
 
 ### Where can I read the privacy policy?
 
